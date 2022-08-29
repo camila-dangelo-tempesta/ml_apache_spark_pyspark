@@ -51,7 +51,7 @@ Algorithms used:
 4. Probabilistic Binary Classification with Naive Bayes: prediction whether a text message is spam or not.
 
 * **Unsupervised Machine Learning**
-5. Clustering with K-Means
+5. Clustering with K-Means: group vehicles by similarity
 
 ***
 Made By **Camila D'Angelo**
