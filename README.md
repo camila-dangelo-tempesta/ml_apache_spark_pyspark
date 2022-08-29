@@ -28,7 +28,7 @@ Visit the official [MLlib documentation](https://spark.apache.org/docs/latest/ml
 
 <div align="center">
 <p float="left">
-    <img src="/images/analytics.jpg" width="1000" height="500"/>
+    <img src="/images/mllib.jpeg" width="1000" height="500"/>
 </p>
 </div>
 
