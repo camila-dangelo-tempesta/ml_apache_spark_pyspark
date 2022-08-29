@@ -44,10 +44,14 @@ We will work with sample data and our focus will be on the Machine Learning proc
 
 Algorithms used:
 
+* **Supervised Machine Learning**
 1. Linear Regression: prediction of automobile fuel consumption
 2. Multiclass classification: prediction of the outcome of a football match
 3. Binary Classification with Random Forest and PCA: prediction whether or not a customer will pay a bank loan
 4. Probabilistic Binary Classification with Naive Bayes: prediction whether a text message is spam or not.
+
+* **Unsupervised Machine Learning**
+5. Clustering
 
 ***
 Made By **Camila D'Angelo**
